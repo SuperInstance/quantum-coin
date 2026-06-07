@@ -1,0 +1,9 @@
+[package]
+name = "quantum-coin"
+version = "0.1.0"
+edition = "2021"
+description = "Quantum-inspired probabilistic decision making with superposition, measurement, and entanglement"
+repository = "https://github.com/SuperInstance/quantum-coin"
+license = "MIT"
+
+[dev-dependencies]
